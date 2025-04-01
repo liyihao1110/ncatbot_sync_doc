@@ -5,7 +5,7 @@
 ## 启动服务
 
 * [前置任务](qi-dong-fu-wu/quickstart.md)
-* [简单入门示例](qi-dong-fu-wu/publish-your-docs.md)
+* [NapcatQQ配置](qi-dong-fu-wu/publish-your-docs.md)
 
 ## 使用指南
 
