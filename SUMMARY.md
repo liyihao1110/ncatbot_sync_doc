@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 这是NcatBot的官方文档](README.md)
+* [Ncatbot\_sync使用文档](README.md)
 
 ## 开始
 
