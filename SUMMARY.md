@@ -2,10 +2,10 @@
 
 * [Ncatbot\_sync使用文档](README.md)
 
-## 开始
+## 启动服务
 
-* [快速开始](kai-shi/quickstart.md)
-* [简单入门示例](kai-shi/publish-your-docs.md)
+* [前置任务](qi-dong-fu-wu/quickstart.md)
+* [简单入门示例](qi-dong-fu-wu/publish-your-docs.md)
 
 ## 使用指南
 
